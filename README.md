@@ -1,4 +1,4 @@
-# 🛡️ Argus: Anti-Money Laundering AI
+# 🛡️ NOIR – Fraud & Risk Intelligence
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
@@ -10,7 +10,7 @@ Financial fraud and money laundering cost the global economy billions annually. 
 **The Goal:** Build an AI capable of detecting fraudulent patterns in a dataset of **6.3 million transactions**, focusing on the "Modus Operandi" rather than user identity.
 
 ## 🚀 Key Results (Performance)
-The **Argus** system (Random Forest Classifier) achieved:
+The **NOIR** system (Random Forest Classifier) achieved:
 * **Accuracy:** 99.8%
 * **Processed Volume:** 2.7 Million filtered transactions (High Risk)
 * **Estimated Fraud Prevention:** R$ 11.8 Billion (Simulated)
