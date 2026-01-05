@@ -70,14 +70,6 @@ Unlike generic models, NOIR employs 5 custom-built forensic signals:
 * **Graph Intelligence:** NetworkX (Connected Components & Centrality Algorithms)
 * **Visualization:** Matplotlib & Seaborn (Forensic Reporting)
 
-## 📂 Project Structure
-```bash
-├── 📁 data/             # Raw & Processed Datasets (PaySim)
-├── 📁 notebooks/        # Jupyter Notebooks (Deep Dive & Research)
-│   └── NOIR_Core.ipynb  # The Main Engine (Graph + ML)
-├── 📁 src/              # Modularized Python scripts
-└── README.md            # You are here
-## 👨‍💻 Author
 
 **Matheus Cassiano**
 *Software Developer | Python & AI Enthusiast*
